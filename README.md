@@ -1,4 +1,4 @@
 # sikho
-this is going to my first project
+this is going to be my first project
 <br>
 Author - Vikas
